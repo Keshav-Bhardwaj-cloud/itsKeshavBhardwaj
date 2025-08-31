@@ -10,7 +10,7 @@ I enjoy building projects, learning modern technologies, and constantly improvin
 - 🌱 Currently learning: **React, JavaScript, and preparing for Python (DSA)**  
 - 🔭 Working on: **Frontend projects & coding practice**  
 - 🌍 Languages: **HTML, CSS, JavaScript**  
-- 📫 How to reach me: **your_email@example.com**  
+- 📫 How to reach me: bhardwajkeshav910@gmail.com  
 - ⚡ Fun fact: I believe consistency beats motivation every time!  
 
 ---
